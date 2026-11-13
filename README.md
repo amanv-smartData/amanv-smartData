@@ -4,7 +4,7 @@
 
 I build and maintain scalable web applications using Linux, Apache, MySQL and PHP (Laravel). I work across backend and frontend, design REST APIs, integrate third-party services and optimize databases.
 
-- 🔭 2+ years of experience as a LAMP Stack Developer
+- 🔭 3+ years of experience as a LAMP Stack Developer
 - 💼 Currently at **smartData Enterprises (India) Ltd**, Mohali, Punjab
 - 🧩 Mostly working on Laravel apps, REST APIs and database optimization
 - 🤝 Comfortable in Agile teams, cloud deployment and third-party integrations
