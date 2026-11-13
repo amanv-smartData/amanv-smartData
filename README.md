@@ -1,6 +1,6 @@
 # Hi, I'm Aman Verma 👋
 
-**LAMP Stack Developer | Laravel · PHP · MySQL**
+**Full Stack Developer | Laravel · PHP · MySQL · React · Node**
 
 I build and maintain scalable web applications using Linux, Apache, MySQL and PHP (Laravel). I work across backend and frontend, design REST APIs, integrate third-party services and optimize databases.
 
