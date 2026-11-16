@@ -1,6 +1,6 @@
 # Hi, I'm Aman Verma 👋
 
-**Full Stack Developer | Laravel · PHP · MySQL · React · Node**
+**Full Stack Developer | Laravel · PHP · MySQL · React · Node . Express**
 
 I build and maintain scalable web applications using Linux, Apache, MySQL and PHP (Laravel). I work across backend and frontend, design REST APIs, integrate third-party services and optimize databases.
 
@@ -22,6 +22,7 @@ I build and maintain scalable web applications using Linux, Apache, MySQL and PH
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
