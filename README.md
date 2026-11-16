@@ -42,15 +42,15 @@ I build and maintain scalable web applications using Linux, Apache, MySQL and PH
 
 | Area | Details |
 | --- | --- |
-| Technology | Laravel, PHP, jQuery, JavaScript, React.js |
-| Framework | Laravel |
-| Database | MySQL, MS SQL Server |
-| APIs | REST API implementation & integration, third-party API integration |
-| Web Server | Apache |
-| Other Tools | Postman, Swagger, Cursor, Windsurf |
-| OS | Windows, Linux |
-| Version Control | GitHub |
-| Project Management | Jira |
+| Languages |	JavaScript (ES6+), C++, PHP |
+| Frontend | React.js, jQuery, HTML5, CSS3 |
+| Backend & Frameworks | Laravel, REST API Development & Integration, Node.js, Express.js |
+| Databases | MySQL, MS SQL Server |
+| Cloud & DevOps |	AWS (S3, EC2), Git, GitHub |
+| Analytics & Tools |	Postman, Swagger, Jira |
+| Integration |	Cisco Webex API, Google Geocoding API, Google Maps JavaScript API, Third-Party API |
+| Methodologies | SDLC, Scrum |
+| AI Tools | ChatGPT, Claude, Antigravity, Cursor, Windsurf |
 
 ---
 
